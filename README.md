@@ -19,4 +19,10 @@ Tempo [t] (meses)......: 15
 Juros (R$).....: 360,00
 Montante (R$)..: 1560,00
 
+**Como executar**
 
+Acesse a pasta do projeto e digite:
+
+```
+dotnet run 
+```
